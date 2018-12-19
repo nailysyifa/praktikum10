@@ -1,6 +1,9 @@
-nilai = 50
+#Nama : Naily Syifa Q A
+#Nim : G.231.16.0108
 
-if nilai = 75: # equal eksplisit
+nilai = 75
+
+if nilai == 75: # equal eksplisit
     print("nilai anda:",nilai)
 
 if nilai is 60: # equal
@@ -13,7 +16,7 @@ print(100*"=")
 
 nilai = 65
 
-if 80 < nilai < 100
+if 80 < nilai < 100:
     print("nilai anda adalah A")
 elif 70 < nilai < 80:
     print("nilai anda adalah B")
@@ -21,7 +24,7 @@ elif 60 < nilai < 70:
     print("nilai anda adalah C")
 elif 50 < nilai < 60:
     print("nilai anda adalah T, lakukan perbaikan")
-else
+else:
     print("maaf anda tidak lulus mata kuliah ini")
 
 print(100*"+")
